@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/NFT-Preview-Card-Component-React-App/static/css/main.3485302d.css",
+    "main.js": "/NFT-Preview-Card-Component-React-App/static/js/main.5f5dc444.js",
+    "static/js/787.4505d996.chunk.js": "/NFT-Preview-Card-Component-React-App/static/js/787.4505d996.chunk.js",
+    "static/media/image-equilibrium.jpg": "/NFT-Preview-Card-Component-React-App/static/media/image-equilibrium.88bdbc91a544a2a4d04a.jpg",
+    "index.html": "/NFT-Preview-Card-Component-React-App/index.html",
+    "static/media/icon-view.svg": "/NFT-Preview-Card-Component-React-App/static/media/icon-view.fedac5512cc6657af397a76d5e03ea37.svg",
+    "static/media/icon-clock.svg": "/NFT-Preview-Card-Component-React-App/static/media/icon-clock.991a65225dab4fadc84345ecb35faa1b.svg",
+    "static/media/icon-ethereum.svg": "/NFT-Preview-Card-Component-React-App/static/media/icon-ethereum.5221f33297e5dc863451e2da9a758c12.svg",
+    "main.3485302d.css.map": "/NFT-Preview-Card-Component-React-App/static/css/main.3485302d.css.map",
+    "main.5f5dc444.js.map": "/NFT-Preview-Card-Component-React-App/static/js/main.5f5dc444.js.map",
+    "787.4505d996.chunk.js.map": "/NFT-Preview-Card-Component-React-App/static/js/787.4505d996.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3485302d.css",
+    "static/js/main.5f5dc444.js"
+  ]
+}
