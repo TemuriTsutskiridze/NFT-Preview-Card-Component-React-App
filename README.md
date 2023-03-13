@@ -1,6 +1,6 @@
 # NFT Preview Card Component
 
--live web page url: 
+-live web page url: https://temuritsutskiridze.github.io/NFT-Preview-Card-Component-React-App/
 
 - design url (figma): https://www.figma.com/file/SYFRvTvTGdCo3iTXxu2kZE/nft-preview-card-component?node-id=0%3A84&t=seyXhBSTLe5U3TkT-0
 
